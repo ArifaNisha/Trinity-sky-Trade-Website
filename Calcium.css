@@ -1,0 +1,22 @@
+.products1{
+    position:absolute;
+    bottom:60%;
+    left:10%;
+}
+.image{
+    width:450px;
+    height:300px;
+}
+.btn1{
+    background-color: green;
+    width:200px;
+}
+.contactsection{
+    padding-top: 2%;
+}
+/* .details{
+    padding-top:20px;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom:20px;
+} */
