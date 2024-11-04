@@ -1,0 +1,15 @@
+
+.home{
+    color:#fe0000;
+}
+.thick-line {
+    height: 1.5px; /* Set the thickness of the line */
+    background-color: rgb(0, 0, 0); /* Set the color of the line */
+  /* Remove the default border */
+    margin:5px 0; /* Optional: Adjust the space around the line */
+  }
+  @media only screen and (max-width: 1023px) and (min-width: 768px) {
+
+
+    
+  }
