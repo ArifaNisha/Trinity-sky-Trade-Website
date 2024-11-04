@@ -1,0 +1,19 @@
+
+.footer-01{
+    background-color: black;
+}
+.foot{
+    padding-top: 40px;
+
+}
+.headpart{
+    color: red;
+}
+.thick-line1 {
+    height: 0.2rem; /* Set the thickness of the line */
+    background-color:gray; /* Set the color of the line */
+    border: none; /* Remove the default border */
+    margin:5px 0; /* Optional: Adjust the space around the line */
+    margin-left: 12%;
+max-width: 1150px;
+  }
