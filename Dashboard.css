@@ -1,0 +1,21 @@
+#offcanvas-sidebar {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 300px; 
+    height: 100%;
+  }
+ .dash{
+  padding:100px! important;
+ }
+ /* .card-body  {
+  word-wrap: break-word; /* Break long words and wrap */
+  white-space: normal;    /* Ensures text breaks at the container width */
+}
+.card {
+  width: 100%;  /* Full width by default */
+  max-width: 400px; /* Maximum width of the card */
+  margin: 20px auto;
+  border: 1px solid #ddd;
+  box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+} */
