@@ -1,0 +1,89 @@
+*{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+
+
+
+/* .full-wrapper{
+    position: absolute;
+    width: 100%;          /* Ensures the wrapper spans the full width */
+   /* left: 0%;
+   display: block; 
+  
+} */
+  /* .full-width{   
+    width: 100%;
+    height: auto;
+    display: block;
+} */
+.carousel-item{
+    max-height: 50%; /* Fullscreen carousel */
+    background: no-repeat center center scroll;
+    background-size: cover;
+}
+.carousel-indicators button {
+ width:60px !important; /* it represnt  dash button size*/
+ 
+
+}
+.carousel-indicators .active {
+    background-color:#fe0000; /* Active indicator color */
+   
+  }
+
+
+.carousel-caption{
+  position:absolute;
+  top: 30%;
+  left:10%;
+ 
+}
+.logo{
+    color: #fe0000;
+}
+.btn2,.btn2:hover{
+    background-color: #fe0000;
+    
+}
+
+.overlay{
+position: absolute;
+  background-color:rgba(21, 143, 21, 0.7);
+  top: 212%;
+ width: 83%;
+  z-index: 1;
+  display: flex;
+  overflow-x: hidden;
+}
+.image1{
+  width:100%;
+  max-height:60%;
+  
+} 
+/* .card{
+  width:40rem;
+  margin-bottom: 40px;
+  position:absolute;
+  bottom: 100px;
+}
+   */
+   @media screen and (min-width:700px) and (max-width :1024){
+   .carousel-caption,.h1,.btn1{
+    position:absolute;
+    top: 10%;
+    left:10%; 
+    font-size: 15px;
+   }
+  
+ 
+    } 
+    /* @media screen and (max-width :500px){
+      .carousel-caption,.h1{
+        position:absolute;
+        top: 5%;
+        left: 1px; 
+       font-size: 2%;
+       }
+   } */
+ 
